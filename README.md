@@ -1,5 +1,8 @@
 # hello-world
 
-hi Machines
+Hello there,
 
-goodbye
+I'm Maaz, i love music, glad to be here
+
+thanks,
+Maaz
